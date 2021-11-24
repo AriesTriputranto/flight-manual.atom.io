@@ -33,7 +33,8 @@ As you edit the text, the preview will also update automatically. This makes it 
 
 You can also copy the rendered HTML from the preview pane into your system clipboard when the preview is focused and you press <kbd class="platform-mac">Cmd+C</kbd><kbd class="platform-windows">Ctrl+C</kbd><kbd class="platform-linux">Ctrl+Ins</kbd> or if you right-click in the preview pane and choose "Copy as HTML".
 
-Markdown preview is implemented in the [markdown-preview](https://github.com/atom/markdown-preview) package.
+Markdown preview is implemented in the [markdown-preview]
+* https://github.com/atom {{markdown-preview}} package.
 
 #### Snippets
 
